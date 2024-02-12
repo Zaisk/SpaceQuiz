@@ -6,4 +6,4 @@
 
 `Simple space theme trivia quiz. 8 questions, using simple user-friendly UI. Counts total number of questions correct out of 8. Has a prebuilt 'bounceIn entrance' and infinite shooting star loop to make it look extra spacey.`
 
-This site is hosted on [GitHub Pages](https://zaisk.github.com/SpaceQuiz).
+**This site is hosted on [GitHub Pages](https://zaisk.github.io/SpaceQuiz/)**
